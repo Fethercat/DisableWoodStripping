@@ -15,6 +15,7 @@ This mod completely disables wood stripping! This will stop you from accidentall
 ### Features
 
 Disables logs from being stripped with an axe.
+
 Disables wood from being stripped with an axe.
 
 ---
