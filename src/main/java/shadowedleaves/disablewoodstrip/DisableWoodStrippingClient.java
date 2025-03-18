@@ -32,6 +32,7 @@ public class DisableWoodStrippingClient implements ClientModInitializer {
                 block == Blocks.JUNGLE_LOG || block == Blocks.ACACIA_LOG || block == Blocks.DARK_OAK_LOG ||
                 block == Blocks.MANGROVE_LOG || block == Blocks.OAK_WOOD || block == Blocks.SPRUCE_WOOD ||
                 block == Blocks.BIRCH_WOOD || block == Blocks.JUNGLE_WOOD || block == Blocks.ACACIA_WOOD ||
-                block == Blocks.DARK_OAK_WOOD || block == Blocks.MANGROVE_WOOD;
+                block == Blocks.DARK_OAK_WOOD || block == Blocks.MANGROVE_WOOD ||
+                block == Blocks.CRIMSON_STEM || block == Blocks.WARPED_STEM;
     }
 }
