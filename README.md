@@ -37,7 +37,7 @@ Github Repository: [Source Code](https://github.com/Fethercat/DisableWoodStrippi
 
 Report Issues: [Issues](https://github.com/Fethercat/DisableWoodStripping/issues)
 
-**Brilliance** Wiki: [Wiki](https://github.com/Fethercat/DisableWoodStripping/wiki)
+**Disable Wood Stripping** Wiki: [Wiki](https://github.com/Fethercat/DisableWoodStripping/wiki)
 
 ---
 
