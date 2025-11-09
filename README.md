@@ -8,7 +8,7 @@ This mod completely disables wood stripping! This will stop you from accidentall
 
 - 1.20.4
 
-**This mod will be updated to 1.21 soon!**
+**Support for this project has been discontinued.**
 
 ---
 
@@ -24,7 +24,7 @@ Disables wood from being stripped with an axe.
 
 Discord: shadowedleaves_
 
-Feel free to message me to ask a question or suggest a new feature!
+~~Feel free to message me to ask a question or suggest a new feature!~~
 
 ---
 
